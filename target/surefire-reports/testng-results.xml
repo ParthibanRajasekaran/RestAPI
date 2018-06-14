@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression suite" duration-ms="5062" started-at="2018-06-13T21:41:00Z" finished-at="2018-06-13T21:41:05Z">
+    <groups>
+    </groups>
+    <test name="Jira" duration-ms="5062" started-at="2018-06-13T21:41:00Z" finished-at="2018-06-13T21:41:05Z">
+      <class name="Jira.createIssue">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Jira.createIssue@68837a77]" name="setup" is-config="true" duration-ms="0" started-at="2018-06-13T23:41:04Z" finished-at="2018-06-13T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createBug()[pri:0, instance:Jira.createIssue@68837a77]" name="createBug" duration-ms="200" started-at="2018-06-13T23:41:04Z" finished-at="2018-06-13T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBug -->
+        <test-method status="PASS" signature="createTask()[pri:0, instance:Jira.createIssue@68837a77]" name="createTask" duration-ms="204" started-at="2018-06-13T23:41:04Z" finished-at="2018-06-13T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTask -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Jira.createIssue@68837a77]" name="setup" is-config="true" duration-ms="0" started-at="2018-06-13T23:41:04Z" finished-at="2018-06-13T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- Jira.createIssue -->
+      <class name="Jira.updateComment">
+        <test-method status="PASS" signature="updateComment()[pri:0, instance:Jira.updateComment@2d554825]" name="updateComment" duration-ms="607" started-at="2018-06-13T23:41:03Z" finished-at="2018-06-13T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateComment -->
+      </class> <!-- Jira.updateComment -->
+      <class name="Jira.addComment">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Jira.addComment@77b52d12]" name="setup" is-config="true" duration-ms="7" started-at="2018-06-13T23:41:00Z" finished-at="2018-06-13T23:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addComment()[pri:0, instance:Jira.addComment@77b52d12]" name="addComment" duration-ms="3655" started-at="2018-06-13T23:41:00Z" finished-at="2018-06-13T23:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addComment -->
+      </class> <!-- Jira.addComment -->
+      <class name="Jira.deleteIssue">
+        <test-method status="PASS" signature="deleteIssue()[pri:0, instance:Jira.deleteIssue@6be46e8f]" name="deleteIssue" duration-ms="355" started-at="2018-06-13T23:41:04Z" finished-at="2018-06-13T23:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteIssue -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Jira.deleteIssue@6be46e8f]" name="setup" is-config="true" duration-ms="0" started-at="2018-06-13T23:41:04Z" finished-at="2018-06-13T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- Jira.deleteIssue -->
+    </test> <!-- Jira -->
+  </suite> <!-- Regression suite -->
+</testng-results>

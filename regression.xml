@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression suite">
+    <listeners><listener class-name="Resources.ExtentReporterNG"/></listeners>
+    <test name="Jira">
+        <classes>
+            <class name="Jira.addComment" />
+            <class name="Jira.updateComment" />
+            <class name="Jira.createIssue" />
+            <class name="Jira.deleteIssue" />
+        </classes>
+    </test>
+</suite>

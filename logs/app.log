@@ -1,0 +1,85 @@
+2018-06-14 19:26:08,007 [main] INFO  Utility.helpers - Session Value for authentication is : EAA76729948C81BBD04AF6DD2F452520
+2018-06-14 19:26:08,234 [main] INFO  Utility.helpers - Bug Id created is : 10165
+2018-06-14 19:26:08,374 [main] INFO  Utility.helpers - Session Value for authentication is : 3BBFA69338DE9241D2070CCFCE51D4D3
+2018-06-14 19:26:08,642 [main] INFO  Utility.helpers - Comment Id created is : 10126
+2018-06-14 19:26:08,747 [main] INFO  Utility.helpers - Session Value for authentication is : 9C9D86E050870DCF60B61A504CB85C7F
+2018-06-14 19:26:09,016 [main] INFO  Utility.helpers - Bug Id created is : 10166
+2018-06-14 19:26:09,171 [main] INFO  Utility.helpers - Session Value for authentication is : 1850AD6724389602294E5E4575E61500
+2018-06-14 19:26:09,276 [main] INFO  Utility.helpers - Session Value for authentication is : B5C4B47549985138C2C6FAB300B2E252
+2018-06-14 19:26:09,394 [main] INFO  Utility.helpers - Comment Id created is : 10127
+2018-06-14 19:26:09,600 [main] INFO  Utility.helpers - Comment for Bug: 10166 is updated successfully
+2018-06-14 19:26:09,703 [main] INFO  Utility.helpers - Session Value for authentication is : 36C2C14BEA2205337F5D68EEEE0BD7BF
+2018-06-14 19:26:09,997 [main] INFO  Utility.helpers - Bug Id created is : 10167
+2018-06-14 19:26:10,082 [main] INFO  Utility.helpers - Session Value for authentication is : EB70577773CFEF79D729F766CD542858
+2018-06-14 19:26:10,334 [main] INFO  Utility.helpers - Session Value for authentication is : 7645B1C94984C3E53C4D51E9ECD8BCA2
+2018-06-14 19:26:10,536 [main] INFO  Utility.helpers - Bug created : RES-123
+2018-06-14 19:26:10,625 [main] INFO  Utility.helpers - Session Value for authentication is : A4723939625900C6297DB7540320139C
+2018-06-14 19:26:10,737 [main] INFO  Utility.helpers - Bug Id : RES-123 deleted successfully
+2018-06-14 21:18:06,991 [main] INFO  Utility.helpers - Session Value for authentication is : BA9C1A2C9DF46667836A264138CA4CA7
+2018-06-14 21:18:07,308 [main] INFO  Utility.helpers - Bug Id created is : 10185
+2018-06-14 21:18:07,410 [main] INFO  Utility.helpers - Session Value for authentication is : 8D4929B7826DB74C24C54BDE54E61C44
+2018-06-14 21:18:07,561 [main] INFO  Utility.helpers - Comment Id created is : 10134
+2018-06-14 21:18:07,685 [main] INFO  Utility.helpers - Session Value for authentication is : E26277F5CBD7066B180D889A1EB71488
+2018-06-14 21:18:07,852 [main] INFO  Utility.helpers - Bug Id created is : 10186
+2018-06-14 21:18:07,949 [main] INFO  Utility.helpers - Session Value for authentication is : 5F7CFE5392B1CA1A5770DBE45AFAC0B9
+2018-06-14 21:18:08,053 [main] INFO  Utility.helpers - Session Value for authentication is : D6CDA659998D40DBE3E8DC85C5C47D14
+2018-06-14 21:18:08,149 [main] INFO  Utility.helpers - Comment Id created is : 10135
+2018-06-14 21:18:08,302 [main] INFO  Utility.helpers - Comment for Bug: 10186 is updated successfully
+2018-06-14 21:18:08,498 [main] INFO  Utility.helpers - Session Value for authentication is : F6D9ED25B30FE932FE4F93508125B29B
+2018-06-14 21:18:08,676 [main] INFO  Utility.helpers - Bug Id created is : 10187
+2018-06-14 21:18:08,771 [main] INFO  Utility.helpers - Session Value for authentication is : D410651175AF2971F9F93AA5DDC3D5D4
+2018-06-14 21:18:09,029 [main] INFO  Utility.helpers - Session Value for authentication is : 519372B4EA6A721AE2C5F44D73DEBE7D
+2018-06-14 21:18:09,221 [main] INFO  Utility.helpers - Bug created : RES-143
+2018-06-14 21:18:09,307 [main] INFO  Utility.helpers - Session Value for authentication is : F06DA27F322C0160EA88A5219BA4A89A
+2018-06-14 21:18:09,360 [main] INFO  Utility.helpers - Bug Id : RES-143 deleted successfully
+2018-06-14 21:23:36,896 [main] INFO  Utility.helpers - Session Value for authentication is : 9EB417472F506F01BC1DFF15A8D13944
+2018-06-14 21:23:37,040 [main] INFO  Utility.helpers - Bug Id created is : 10190
+2018-06-14 21:23:37,101 [main] INFO  Utility.helpers - Session Value for authentication is : B5476EC07CA4F959C0A8FEF47CE18866
+2018-06-14 21:23:37,209 [main] INFO  Utility.helpers - Comment Id created is : 10136
+2018-06-14 21:23:37,271 [main] INFO  Utility.helpers - Session Value for authentication is : 7362FDFCD4D547D57953F2CAFA298263
+2018-06-14 21:23:37,427 [main] INFO  Utility.helpers - Bug Id created is : 10191
+2018-06-14 21:23:37,506 [main] INFO  Utility.helpers - Session Value for authentication is : FDBD64AB7885C8FAACA0BABB00884DBA
+2018-06-14 21:23:37,561 [main] INFO  Utility.helpers - Session Value for authentication is : F630CD2B825E624A5E73023A8E79B1CD
+2018-06-14 21:23:37,627 [main] INFO  Utility.helpers - Comment Id created is : 10137
+2018-06-14 21:23:37,773 [main] INFO  Utility.helpers - Comment for Bug: 10191 is updated successfully
+2018-06-14 21:23:37,884 [main] INFO  Utility.helpers - Session Value for authentication is : 426A01DD2DC2DB71F94E811D3834210A
+2018-06-14 21:23:38,061 [main] INFO  Utility.helpers - Bug Id created is : 10192
+2018-06-14 21:23:38,143 [main] INFO  Utility.helpers - Session Value for authentication is : 9707E4EE271AD5FB412D76A3717A4D3C
+2018-06-14 21:23:38,383 [main] INFO  Utility.helpers - Session Value for authentication is : 1A0DD51E5040B41B340250D7862472AE
+2018-06-14 21:23:38,542 [main] INFO  Utility.helpers - Bug created : RES-148
+2018-06-14 21:23:38,592 [main] INFO  Utility.helpers - Session Value for authentication is : 46DC7D9E89DD9A5E77072D1E75FD581D
+2018-06-14 21:23:38,630 [main] INFO  Utility.helpers - Bug Id : RES-148 deleted successfully
+2018-06-14 22:05:10,346 [main] INFO  Utility.helpers - Session Value for authentication is : C310AC003098F408D1D0CDA05533D348
+2018-06-14 22:05:10,746 [main] INFO  Utility.helpers - Bug Id created is : 10195
+2018-06-14 22:05:10,836 [main] INFO  Utility.helpers - Session Value for authentication is : 4C5D7A0B8DAA2D7B3B4EF9688CAE94E9
+2018-06-14 22:05:10,951 [main] INFO  Utility.helpers - Comment Id created is : 10138
+2018-06-14 22:05:11,036 [main] INFO  Utility.helpers - Session Value for authentication is : E79D0F36819B2DC5D8DC993654918EF8
+2018-06-14 22:05:11,197 [main] INFO  Utility.helpers - Bug Id created is : 10196
+2018-06-14 22:05:11,368 [main] INFO  Utility.helpers - Session Value for authentication is : 9F2E8FE394BCD607CA396E9834FE1C2D
+2018-06-14 22:05:11,435 [main] INFO  Utility.helpers - Session Value for authentication is : EA2313E61AED88DE3B17ADD1FEF52554
+2018-06-14 22:05:11,512 [main] INFO  Utility.helpers - Comment Id created is : 10139
+2018-06-14 22:05:11,677 [main] INFO  Utility.helpers - Comment for Bug: 10196 is updated successfully
+2018-06-14 22:05:11,778 [main] INFO  Utility.helpers - Session Value for authentication is : AFE0C9CF2B286A9ED6591E2A85E9C5FA
+2018-06-14 22:05:11,907 [main] INFO  Utility.helpers - Bug Id created is : 10197
+2018-06-14 22:05:11,991 [main] INFO  Utility.helpers - Session Value for authentication is : AFF55890E52116EC4D6BDA028688BD59
+2018-06-14 22:05:12,207 [main] INFO  Utility.helpers - Session Value for authentication is : F8B25881F1ACB734B5EC0878AF19F677
+2018-06-14 22:05:12,374 [main] INFO  Utility.helpers - Bug created : RES-153
+2018-06-14 22:05:12,445 [main] INFO  Utility.helpers - Session Value for authentication is : B45F3D6028ACDCAAA7FB92FB85DFAA4D
+2018-06-14 22:05:12,491 [main] INFO  Utility.helpers - Bug Id : RES-153 deleted successfully
+2018-06-14 22:12:44,692 [main] INFO  Utility.helpers - Session Value for authentication is : F3A84BAF99A5328A13E52BE1F437117D
+2018-06-14 22:12:44,859 [main] INFO  Utility.helpers - Bug Id created is : 10200
+2018-06-14 22:12:44,943 [main] INFO  Utility.helpers - Session Value for authentication is : 586CE289B278D0EE21A4F84EEB75E1D4
+2018-06-14 22:12:45,064 [main] INFO  Utility.helpers - Comment Id created is : 10140
+2018-06-14 22:12:45,156 [main] INFO  Utility.helpers - Session Value for authentication is : FAD4D0EB8CCACB1072849C9464164CAE
+2018-06-14 22:12:45,328 [main] INFO  Utility.helpers - Bug Id created is : 10201
+2018-06-14 22:12:45,420 [main] INFO  Utility.helpers - Session Value for authentication is : BF298BEB3782D6EC1682F7BDDB160DBF
+2018-06-14 22:12:45,487 [main] INFO  Utility.helpers - Session Value for authentication is : 81D4BF43D41CC058AEF92FEA24AB6F84
+2018-06-14 22:12:45,578 [main] INFO  Utility.helpers - Comment Id created is : 10141
+2018-06-14 22:12:45,724 [main] INFO  Utility.helpers - Comment for Bug: 10201 is updated successfully
+2018-06-14 22:12:45,801 [main] INFO  Utility.helpers - Session Value for authentication is : EB1FE71B1E91062835D4A48FAF1240F9
+2018-06-14 22:12:45,905 [main] INFO  Utility.helpers - Bug Id created is : 10202
+2018-06-14 22:12:45,983 [main] INFO  Utility.helpers - Session Value for authentication is : BA538D40CBFEED90120B088BFB24C480
+2018-06-14 22:12:46,242 [main] INFO  Utility.helpers - Session Value for authentication is : 81715B80A43250B6C37F762A8895D945
+2018-06-14 22:12:46,387 [main] INFO  Utility.helpers - Bug created : RES-158
+2018-06-14 22:12:46,447 [main] INFO  Utility.helpers - Session Value for authentication is : 6248D8B9D4426A3778908ADF7FABA757
+2018-06-14 22:12:46,511 [main] INFO  Utility.helpers - Bug Id : RES-158 deleted successfully

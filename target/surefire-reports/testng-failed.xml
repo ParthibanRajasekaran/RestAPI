@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression suite]">
+  <test name="Jira">
+    <classes>
+      <class name="Jira.addComment"/>
+      <class name="Jira.updateComment"/>
+      <class name="Jira.createIssue"/>
+      <class name="Jira.deleteIssue"/>
+    </classes>
+  </test> <!-- Jira -->
+</suite> <!-- Failed suite [Regression suite] -->
